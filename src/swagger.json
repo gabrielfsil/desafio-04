@@ -1,0 +1,14 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Challenge Documentation",
+    "description": "This is an API Challenge",
+    "version": "1.0.0",
+    "contact": {
+      "email": "gabrielfsil264@gmail.com"
+    }
+  },
+  "paths": {
+    "/": {}
+  }
+}
